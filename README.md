@@ -1,4 +1,4 @@
-# FinalGradeCalculator
+# FinalGradeCalculatorGUI
 
 Created Ocotber 2020
 Uploaded July 30 2021
